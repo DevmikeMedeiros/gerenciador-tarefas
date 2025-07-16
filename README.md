@@ -26,12 +26,12 @@ Criar um sistema simples de cadastro e controle de tarefas para pequenos times d
 Durante o desenvolvimento, percebemos que seria interessante incluir uma funcionalidade de **login de usuário** para personalizar o uso do sistema. Essa funcionalidade foi adicionada ao backlog e está em fase de planejamento.
 
 ## 📊 Kanban
-Acompanhe o progresso das tarefas na aba [Projects](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/projects)
+Acompanhe o progresso das tarefas na aba [Projects](https://github.com/DevmikeMedeiros/gerenciador-tarefas)
 
 ## 🤖 Pipeline de Qualidade
 Utilizamos GitHub Actions para rodar testes automatizados a cada `push`.
 
 ## 👨‍💻 Desenvolvido por
 Michael Medeiros de Araújo  
-Curso de Engenharia de Software  
+Curso de ADS 
 UNIFECAF
