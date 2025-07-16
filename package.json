@@ -1,0 +1,11 @@
+{
+  "name": "gerenciador-tarefas",
+  "version": "1.0.0",
+  "description": "Sistema simples de gerenciamento de tarefas com HTML, CSS e JS.",
+  "scripts": {
+    "lint": "eslint script.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0"
+  }
+}
